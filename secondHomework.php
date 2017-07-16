@@ -5,7 +5,9 @@
 	$secondVar = 1;
 		if (is_null($user)){
 
-			echo "<script> alert(\"Программа остановлена!\\n\\Для продолжения работы введите числовое значение в адресную строку, после ?user=\\n\\Пример: http://university.netology.ru/u/smetanin/me2/secondHomework.php?user=4\"); </script>";
+			echo "<script> alert(\"Программа остановлена!\\n\\Для продолжения работы введите числовое
+			значение в адресную строку, после ?user=\\n\\Пример: http://university.netology.ru/u
+			/smetanin/me2/secondHomework.php?user=4\"); </script>";
 
 		} else{
 
