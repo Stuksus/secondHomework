@@ -28,11 +28,9 @@
 			$firstVar += $secondVar;
 			$secondvar = $thirdVar;
 
-			}
+		}
 			
 		}while ($flag); 
 			
 	}
-
-
 ?>
